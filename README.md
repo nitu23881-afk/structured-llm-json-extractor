@@ -51,7 +51,7 @@ Generated invoice files are excluded from Git.
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/nitu23881-afk/structured-llm-json-extractor.git
 ```
 
 Navigate into the project:
