@@ -57,7 +57,7 @@ git clone https://github.com/nitu23881-afk/structured-llm-json-extractor.git
 Navigate into the project:
 
 ```bash
-cd LLM_JSON_Extractor
+cd structured-llm-json-extractor
 ```
 
 Install dependencies:
